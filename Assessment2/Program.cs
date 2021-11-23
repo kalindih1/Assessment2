@@ -35,15 +35,15 @@ namespace Assessment2
 
         public static int RemoveNum(List<int> nums, int y)
         {
-            if (nums.Contains(y))
-            {
-                nums.Remove(y);
-                return nums;
-            }
-            else
-            {
-                return 0;
-            }
+            //if (nums.Contains(y))
+            //{
+            //    nums.Remove(y);
+            //    return nums;
+            //}
+            //else
+            //{
+            //    return 0;
+            //}
 
 
         }
